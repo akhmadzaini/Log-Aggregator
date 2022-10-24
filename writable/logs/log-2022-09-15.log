@@ -1,0 +1,40 @@
+ERROR - 2022-09-15 01:29:37 --> Error connecting to the database: mysqli_sql_exception: No such file or directory in /app/myapp/system/Database/MySQLi/Connection.php:171
+Stack trace:
+#0 /app/myapp/system/Database/MySQLi/Connection.php(171): mysqli->real_connect()
+#1 /app/myapp/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#2 /app/myapp/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#3 /app/myapp/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#4 /app/myapp/system/Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+#5 /app/myapp/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#6 /app/myapp/app/Controllers/TimeSpend.php(19): CodeIgniter\BaseModel->findAll()
+#7 /app/myapp/system/CodeIgniter.php(907): App\Controllers\TimeSpend->getAll()
+#8 /app/myapp/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+#9 /app/myapp/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#10 /app/myapp/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No such file or directory in /app/myapp/system/Database/MySQLi/Connection.php:215
+Stack trace:
+#0 /app/myapp/system/Database/BaseConnection.php(382): CodeIgniter\Database\MySQLi\Connection->connect()
+#1 /app/myapp/system/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+#2 /app/myapp/system/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+#3 /app/myapp/system/Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+#4 /app/myapp/system/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+#5 /app/myapp/app/Controllers/TimeSpend.php(19): CodeIgniter\BaseModel->findAll()
+#6 /app/myapp/system/CodeIgniter.php(907): App\Controllers\TimeSpend->getAll()
+#7 /app/myapp/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+#8 /app/myapp/system/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+#9 /app/myapp/public/index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-09-15 01:29:37 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+in SYSTEMPATH/Database/BaseConnection.php on line 418.
+ 1 SYSTEMPATH/Database/BaseConnection.php(588): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH/Database/BaseBuilder.php(1585): CodeIgniter\Database\BaseConnection->query()
+ 3 SYSTEMPATH/Model.php(223): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH/BaseModel.php(584): CodeIgniter\Model->doFindAll()
+ 5 APPPATH/Controllers/TimeSpend.php(19): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->getAll()
+ 7 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
