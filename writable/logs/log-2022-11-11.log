@@ -1,0 +1,1544 @@
+CRITICAL - 2022-11-11 18:13:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:13 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:18 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:23 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:28 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:33 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:38 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:13:56 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:04 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:09 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:18 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:23 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:28 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:33 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:38 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:14:48 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:18 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:15:58 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:03 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:08 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:16:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:18 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:29 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:34 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:39 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:44 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:53 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:17:58 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:03 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:09 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:14 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:19 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:24 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:29 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:34 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:39 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:54 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:18:59 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:03 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:08 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:14 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:19 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:24 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:28 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:34 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:38 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:53 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:19:59 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:04 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:09 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:15 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:19 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:24 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:29 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:34 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:39 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:54 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:20:59 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:04 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:09 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:14 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:19 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:23 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:29 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:33 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:39 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:43 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:48 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:54 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:21:59 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:03 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:09 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:13 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:20 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:49 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:22:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:03 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:08 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:13 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:23:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:24:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:25:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:38 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:48 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:26:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:27:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:42 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:47 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:52 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:28:57 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:02 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:07 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:12 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:17 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:22 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:27 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:32 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-11-11 18:29:37 --> array_key_exists() expects parameter 2 to be array, null given
+in APPPATH/Controllers/TimeSpend.php on line 38.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/TimeSpend.php(38): array_key_exists()
+ 3 SYSTEMPATH/CodeIgniter.php(907): App\Controllers\TimeSpend->newEntry()
+ 4 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()

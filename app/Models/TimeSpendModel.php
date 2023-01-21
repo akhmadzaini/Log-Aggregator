@@ -14,8 +14,9 @@ class TimeSpendModel extends Model
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = ['userid', 'username', 'activity', 'activity_type',
-                                    'start', 'end'];
+    protected $allowedFields    = ['userid', 'username', 'coursename', 'courseshortname', 
+                                    'activity', 'activity_type', 'start', 'end', 'url',
+                                    'title'];
 
     // Dates
     protected $useTimestamps = true;

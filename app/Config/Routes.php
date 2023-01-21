@@ -37,6 +37,7 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 $routes->get('/timespend', 'TimeSpend::getAll');
+$routes->get('/timespend/(:num)', 'TimeSpend::getById/$1');
 $routes->post('/timespend', 'TimeSpend::newEntry');
 
 /*
